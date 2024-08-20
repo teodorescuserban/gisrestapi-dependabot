@@ -35,7 +35,7 @@
     "request": "2.68.0",
     "semver": "4.3.2",
     "shortid": "2.0.1",
-    "underscore": "1.6.0",
+    "underscore": "1.12.1",
     "winston": "3.3.3",
     "ya-csv": "0.9.4"
   },
